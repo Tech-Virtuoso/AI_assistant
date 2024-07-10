@@ -15,7 +15,7 @@ Here is a more creative and visually appealing version of your instructions with
 2. **Create a conda environment after opening the repository**
 
    ```bash
-   conda create -n llmapp python=3.8 -y
+   conda create -n llmapp python=3.9 -y
    ```
 
    ```bash
